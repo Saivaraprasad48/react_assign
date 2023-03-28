@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_assign/static/css/main.63f1c317.css",
+    "main.js": "/react_assign/static/js/main.c69ad5df.js",
+    "static/js/787.3d4e0f4f.chunk.js": "/react_assign/static/js/787.3d4e0f4f.chunk.js",
+    "index.html": "/react_assign/index.html",
+    "main.63f1c317.css.map": "/react_assign/static/css/main.63f1c317.css.map",
+    "main.c69ad5df.js.map": "/react_assign/static/js/main.c69ad5df.js.map",
+    "787.3d4e0f4f.chunk.js.map": "/react_assign/static/js/787.3d4e0f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f1c317.css",
+    "static/js/main.c69ad5df.js"
+  ]
+}
