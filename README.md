@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Basic understanding of routing in react application
+
+It is a application which login and home pages, when user submit valid creditials {"foo":"bar"} it is redirected to home page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
